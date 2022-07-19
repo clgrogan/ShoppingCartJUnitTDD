@@ -1,9 +1,4 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/java,macos,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,macos,linux
-
 ### Java ###
-# Compiled class file
 *.class
 
 # JDE
@@ -78,5 +73,3 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
-
-# End of https://www.toptal.com/developers/gitignore/api/java,macos,linux
